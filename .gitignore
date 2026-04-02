@@ -21,3 +21,4 @@ web/src/data/generated/chapters/
 # OS
 .DS_Store
 *.swp
+web/logs/
